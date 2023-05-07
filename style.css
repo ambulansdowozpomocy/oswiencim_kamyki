@@ -1,0 +1,64 @@
+.att_level {
+ color:#756B5E
+}
+.att_positive {
+ color:#99CCFF
+}
+.att_negative {
+ color:#FF4040
+}
+.att_neutral {
+ color:#EBE2CA
+}
+.att_setname {
+ color:#E1FF0F
+}
+.att_setitem_y {
+ color:#95AF0C
+}
+.att_setitem_n {
+ color:#8B8989
+}
+.att_uses {
+ color:#00A000
+}
+.att_flags {
+ color:#756B5E
+}
+.att_strangerank {
+ color:#756B5E
+}
+.qua_unique {
+  color: rgb(255,215,0);
+}
+table.infobox th {
+  font-size: 1.2em;
+  background-color: #F9D483;
+}
+
+
+@font-face {
+    font-family: sans-serif;
+    src: url(tf2build.ttf);
+  }
+  
+@font-face {
+    font-family: Geneva;
+    src: url(GENEV4.ttf);
+  }
+  
+@font-face {
+    font-family: Verdana;
+    src: url(verdana.ttf);
+  }
+  
+  @font-face {
+    font-family: TF2 Build;
+    src: url(tf2build.ttf);
+  }
+  
+  @font-face {
+    font-family: TF2 Secondary;
+    src: url(TF2secondary.ttf);
+  }
+  
